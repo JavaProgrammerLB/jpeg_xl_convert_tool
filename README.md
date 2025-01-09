@@ -10,7 +10,7 @@ To fork this repository, follow these steps:
 2. Click the "Fork" button in the upper right corner of the page.
 3. Select your GitHub account to create the fork.
 
-### 2 Create a GitHub Token
+### 2. Create a GitHub Token
 To create a GitHub token, follow these steps:
 1. Go to GitHub and log in to your account.
 2. Click on your profile picture in the upper right corner and select "Settings".
@@ -22,7 +22,7 @@ To create a GitHub token, follow these steps:
 8. Click the "Generate token" button.
 9. Copy the generated token and save it in a secure place.
 
-### 3 Set Up `WITH_GITHUB_TOKEN` Action Secret
+### 3. Set Up `WITH_GITHUB_TOKEN` Action Secret
 To set up the `WITH_GITHUB_TOKEN` action secret in GitHub:
 1. Go to the repository page on GitHub.
 2. Click on the "Settings" tab.
