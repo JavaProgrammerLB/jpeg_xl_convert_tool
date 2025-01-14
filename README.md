@@ -51,4 +51,4 @@ To create and publish a release on GitHub:
 5. Click the "Publish release" button.
 
 ### 6. Wait for GitHub Action to Complete
-After publishing the release, wait for the GitHub Action to complete. Once done, you will find the `jxl_file-${release_tag_name}.tar.gz` file containing the converted `.jxl` file on the release page created in step 4.
+After publishing the release, wait for the GitHub Action to complete. Once done, you will find the `jxl_file-${release_tag_name}.tar.gz` file containing the converted `.jxl` file on the release page created in step 5.
